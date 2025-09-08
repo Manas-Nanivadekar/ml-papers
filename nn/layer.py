@@ -3,7 +3,7 @@ class Layer:
         self.input = None
         self.output = None
     
-    def forward(self, input):
+    def forward(self, input_param):
         # TODO: return output
         pass
 
